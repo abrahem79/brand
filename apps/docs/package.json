@@ -10,12 +10,12 @@
     "build:animation": "node scripts/animation-support.js"
   },
   "dependencies": {
-    "@primer/gatsby-theme-doctocat": "4.7.1",
+    "@primer/gatsby-theme-doctocat": "5.1.1",
     "@primer/octicons-react": "19.15.1",
     "@primer/react": "35.32.2",
     "color2k": "^2.0.0",
     "cross-env": "7.0.3",
-    "gatsby": "3.15.0",
+    "gatsby": "5.14.3",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-image": "3.14.0",
     "gatsby-plugin-postcss": "6.14.0",
